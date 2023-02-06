@@ -1,0 +1,7 @@
+.bg{
+    height: 150vh;
+    background-image: url('../../../src/assets/Background.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+  }
